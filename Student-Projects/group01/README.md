@@ -1,11 +1,11 @@
-#Twitter Sentiment Analysis on iPhone 17 During September–October 2025
+##Twitter Sentiment Analysis on iPhone 17 During September–October 2025
 
 ## 👥 Team Name
 Tweetelligence
 
 ## 👤 Team Members
 - 
-- 
+- Hasti Azimi
 - 
 - 
 - 
